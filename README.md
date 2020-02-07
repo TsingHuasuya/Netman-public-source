@@ -7,6 +7,7 @@ The public codes and datasets of Tsinghua Netman Lab.
    - **Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network (KDD 2019)**: https://github.com/smallcowbaby/OmniAnomaly
    - **Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications (WWW 2018)**: https://github.com/haowen-xu/donut
    - **Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder (IPCCC 2018)**: https://github.com/lizeyan/Bagel
+   - **Device-Agnostic Log Anomaly Classification with Partial Labels (IWQOS short paper 2018)**: https://github.com/federicozaiter/LogClass
 
 * Dataset:
    - **Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network (KDD 2019)**: https://github.com/smallcowbaby/OmniAnomaly/tree/master/ServerMachineDataset
