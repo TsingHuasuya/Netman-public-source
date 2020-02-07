@@ -1,7 +1,7 @@
 Netman-public-source
 --------
 
-The public codes and datasets of Tsinghua Netman Lab.
+The public codes and datasets of Tsinghua Netman Lab, and the git organization is NetmanLab `https://github.com/NetmanLab`.
 
 * Code:
    - **Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network (KDD 2019)**: https://github.com/smallcowbaby/OmniAnomaly
